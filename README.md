@@ -5,6 +5,7 @@
 This application features the ability to run a simple pinball simulation.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703280-0a079b80-2d91-11ea-826b-a85eb8f11222.png)
 
 ## Application Compiling
 
